@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 https://i.redd.it/ark-road-by-artist-kevin-hong-v0-rdil8nfglg4b1.png?s=4dc44939728dac38894bdc01aa649379198c786f
 -->
 
-<img src="https://imgur.com/YU4ctSw" />
+<img src="[https://imgur.com/YU4ctSw](https://imgur.com/a/QjzQzkZ)" />
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leafoffaith&theme=synthwave)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leafoffaith)](https://git.io/streak-stats)
