@@ -12,3 +12,6 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leafoffaith&theme=synthwave)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leafoffaith)](https://git.io/streak-stats)
+
+
