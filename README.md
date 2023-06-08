@@ -16,19 +16,22 @@ https://i.redd.it/ark-road-by-artist-kevin-hong-v0-rdil8nfglg4b1.png?s=4dc449397
 
 <p align="center">
 
+ <p align="center">
 <img src="https://i.imgur.com/YU4ctSw.png" />
+  </p>
 
 <p align="center">
- 
  <img src="https://badges.pufler.dev/visits/ritik307/leafoffaith"/> 
  <img src="https://badges.pufler.dev/repos/leafoffaith"/>
  <img src="https://badges.pufler.dev/commits/monthly/leafoffaith" />
-
 </p>
 
 <p align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leafoffaith&theme=synthwave)
+ </p>
+ <p align="center">
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leafoffaith)](https://git.io/streak-stats)
 
 </p>
