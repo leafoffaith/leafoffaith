@@ -29,17 +29,18 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<!-- <h2 align="center">
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-<!--
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=leafoffaith&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=leafoffaith&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
--->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leafoffaith&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leafoffaith&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=leafoffaith&show_icons=true&theme=radical" />
+</picture>
+
 <!-- <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=leafoffaith&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>  -->
