@@ -29,6 +29,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=leafoffaith&show_icons=true&theme=dark"
