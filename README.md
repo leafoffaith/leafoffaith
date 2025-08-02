@@ -1,6 +1,6 @@
 <!--
 **leafoffaith/leafoffaith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 <p align="center">
  
 </p align="center">
@@ -13,6 +13,8 @@
  <img src="https://badges.pufler.dev/commits/monthly/leafoffaith" />
 
 </p>
+
+-->
 
 <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
