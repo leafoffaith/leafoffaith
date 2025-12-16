@@ -31,6 +31,14 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leafoffaith&show_icons=true&theme=dark&hide_border=true&locale=ja)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leafoffaith&layout=donut&theme=dark&hide_border=true&locale=ja&&stats_format=bytes)
+
+</div>
 <!--
 <picture>
   <source
